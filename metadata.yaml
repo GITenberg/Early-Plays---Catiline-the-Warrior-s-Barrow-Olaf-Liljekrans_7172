@@ -1,0 +1,31 @@
+_repo: Early-Plays---Catiline-the-Warrior-s-Barrow-Olaf-Liljekrans_7172
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Orbeck, Anders
+    birthdate: 1891
+    gutenberg_agent_id: '4883'
+    url: http://www.gutenberg.org/2009/agents/4883
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: Early Plays — Catiline, the Warrior's Barrow, Olaf Liljekrans
+url: http://www.gutenberg.org/ebooks/7172
