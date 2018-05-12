@@ -1,11 +1,14 @@
 _repo: Early-Plays---Catiline-the-Warrior-s-Barrow-Olaf-Liljekrans_7172
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Orbeck, Anders
     birthdate: 1891
     gutenberg_agent_id: '4883'
     url: http://www.gutenberg.org/2009/agents/4883
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7172#Early-Plays---Catiline-the-Warrior-s-Barrow-Olaf-Liljekrans
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
